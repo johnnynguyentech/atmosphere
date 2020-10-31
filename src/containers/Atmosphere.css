@@ -1,0 +1,12 @@
+#error{
+    margin-top: 350px;
+    margin-bottom: 350px;
+}
+
+body{
+    background-image: url("../components/Images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
